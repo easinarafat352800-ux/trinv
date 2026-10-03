@@ -1,0 +1,35 @@
+{
+  "managers": [
+    {
+      "createdAt": "2026-10-03T17:18:16.287Z",
+      "settings": {
+        "enableScreenshot": true,
+        "enableKeylogger": true,
+        "enableVoice": true,
+        "linkValidity": 60
+      },
+      "name": "Easin Arafat",
+      "email": "easinarafat352800@gmail.com",
+      "password": "$2a$10$49TVlcMC9jSirdSLsNCfw.2M3ou.NNVSF18435.E2VhHWYyG9tRRi",
+      "company": "site.com",
+      "_id": "1cd997e23ee6522c60dce00a"
+    }
+  ],
+  "employees": [],
+  "monitoringLinks": [
+    {
+      "created": "2026-10-03T17:18:16.287Z",
+      "used": false,
+      "status": "active",
+      "managerId": "1cd997e23ee6522c60dce00a",
+      "code": "EMP-E2F0DCA162D05EAC",
+      "name": "Easin",
+      "email": "sajjadhossen3528@gmail.com",
+      "department": "বিক্রয়",
+      "expiresAt": "2026-10-03T18:20:56.849Z",
+      "_id": "0d9202e895a1cc5da8f58483"
+    }
+  ],
+  "activityLogs": [],
+  "voiceRecordings": []
+}
